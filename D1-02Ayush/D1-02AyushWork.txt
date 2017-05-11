@@ -1,0 +1,9 @@
+1. Open webcam using cv2.videocapture
+
+2. Read the frames into grayscale
+
+3. Generate an array containing count for every pixel intensity value.
+
+4. Save the output pics and plots, plotted using matplotlib.
+
+5. Close webcam streaming.
