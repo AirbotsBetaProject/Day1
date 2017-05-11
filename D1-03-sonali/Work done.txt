@@ -1,0 +1,6 @@
+Day_01
+
+work done-:
+1) Read image and convert it into grey image
+2) Plot binary histogram for image  
+
