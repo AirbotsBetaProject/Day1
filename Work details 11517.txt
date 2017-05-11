@@ -1,0 +1,11 @@
+Static IP Error conflict correction
+
+Git & GitHub implementation
+
+Pep-8 Implementation
+
+tensor flow tensor understanding
+
+meeting 
+
+tensor flow module implementation
