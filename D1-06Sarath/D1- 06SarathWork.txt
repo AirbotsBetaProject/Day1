@@ -1,0 +1,5 @@
+1. Installed Python 2.7
+2. Installed fundamental packages - numpy, Pip,Matplotlib, PIL, Opencv.
+3. Firstly started with how to read an image in Python using OpenCV, numpy, plt lib functions.
+4. Then we have created a binary histogram for that Image in OpenCV.
+5. The work which i have done has been attached here in Demo files and Source code.
