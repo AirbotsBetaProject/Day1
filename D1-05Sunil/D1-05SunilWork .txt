@@ -1,0 +1,5 @@
+Reading an image
+
+converting into gray
+
+getting the binary  histogram
