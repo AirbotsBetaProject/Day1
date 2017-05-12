@@ -1,0 +1,5 @@
+Day 1
+-Install opencv, numpy and pillow
+-Read an image
+-Converting an image into gray
+-plot histogram for intesities of pixels for grayscaled image that is taken
